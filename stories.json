@@ -1,0 +1,10 @@
+[
+  {
+		  "prompts" : ["a name", "a noun", "adverb", "adjective"],
+		    "story": "Once upon a time %s watched %s with %s and thought it was %s"
+		},
+		{
+		  "prompts" : ["a noun", "adjective", "adjective"],
+		    "story": "I like %s because it is %s and %s"
+		}
+]
